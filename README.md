@@ -16,8 +16,8 @@ Now that that is out of the way, lets look at the challenge!
 You have tree classes: Oak, Apple and Birch
 
 Ok ... that was cheap ... soooooo, the three classes are: `Autodialer`, `Safe` and `TheJob`. The task is simple, open the safe, with the restriction that you can only
-write any code in the `Autodialer:makeItRain` method. You are not allowed to write or modify any other code any where else, even in you private projects or any other projects you are working on during the period you are solving this task!
-The safe is a tricky one, as it accepts any combination except the correct one. If you try to set the correct combination the an exception is thrown.
+write any code in the `Autodialer:makeItRain` method. You are not allowed to write or modify any other code any where else, even in your private projects or any other projects you are working on during the period you are solving this task!
+The safe is a tricky one, as it accepts any combination except the correct one. If you try to set the correct combination, then an exception is thrown.
 
 The correct combination by the way is `16180`.
 
